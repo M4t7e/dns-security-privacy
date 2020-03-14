@@ -1,2 +1,2 @@
-# dns-security-privacy
+# DNS Security & Privacy
 DNS Security &amp; Privacy
